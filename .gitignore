@@ -7,10 +7,11 @@ __pycache__/
 .DS_Store
 tmp/
 output/
-.env
 
 # Bulk challenge data is distributed as a versioned zip.
 data/train/
 data/validation/
 *.zip
 *.zip.sha256
+config.bat
+node_modules
