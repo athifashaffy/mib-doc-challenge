@@ -13,5 +13,4 @@ data/train/
 data/validation/
 *.zip
 *.zip.sha256
-config.bat
 node_modules
